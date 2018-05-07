@@ -1,1 +1,1 @@
-print'b herro wored'
+print herro wored'
